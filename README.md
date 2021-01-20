@@ -12,7 +12,7 @@
 ---
 ### Load the UI Library
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkieAdmin/Panda-Respiratory/main/Script/Libraries/Core"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Panda-Respiratory/Panda-UI-Library/main/Libraries/Main"))()
 ```
 ---
 ### Add windows
